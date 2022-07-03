@@ -1,0 +1,7 @@
+insert into ACCOUNT values(11, 'savings', 1, 100000, 'HDFC', 'Tanuja', 'HDFC120', 'KFPOS234')
+insert into ACCOUNT values(22, 'savings', 0, 10000, 'ICICI', 'Rohan', 'ICICI321', 'KFPOS444')
+insert into ACCOUNT values(33, 'current', 1, 432412, 'SBI', 'Moin Ali', 'SBI123', 'KFPOS423')
+insert into ACCOUNT values(44, 'current', 1, 45221, 'HDFC', 'Prakash', 'HDFC654', 'KFPOS199')
+insert into ACCOUNT values(55, 'savings', 0, 32343, 'ICICI', 'Raju', 'ICICI099', 'KFPOS324')
+insert into ACCOUNT values(66, 'savings', 0, 230000, 'SBI', 'Ronit', 'SBI234', 'KFPOS987')
+insert into ACCOUNT values(77, 'current', 1, 54787, 'HDFC', 'Rohini', 'HDFC823', 'KFPOS967')
